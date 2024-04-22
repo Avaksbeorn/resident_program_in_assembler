@@ -6,7 +6,7 @@
 
 rez.asm воспроизводит звук при нажатии левого ALT. (Звук картинкой я ХЗ как вставить :))
 
-clock.asm переносит ввод в консоль в верхню левую часть.
+clock.asm переносит ввод в консоль в верхнюю левую часть.
 
 ![image](https://github.com/Avaksbeorn/resident_program_in_assembler/assets/146529592/6842f0e5-20f6-4bc6-a8a5-6314d1e692cc)
 
